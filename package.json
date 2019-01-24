@@ -4,10 +4,12 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive",
+    "deploy": "gh-pages -d dist"
   },
   "author": "Ethan Robbins",
   "license": "MIT",
+  "homepage": "http://eternal88.github.io/",
   "dependencies": {
     "node-sass": "^4.11.0"
   }

@@ -126,8 +126,7 @@ h3 {
   h2.sm-heading,
   h3.sm-heading {
     margin-bottom: 2rem;
-    padding: 0.2rem 1rem;
-    background: rgba(73, 73, 73, 0.5); }
+    padding: 0.2rem 1rem; }
 
 a {
   color: #fff;
@@ -140,6 +139,21 @@ header {
 
 .text-secondary {
   color: #eece1a; }
+
+#alternate-color {
+  -webkit-animation: Font 15s infinite alternate; }
+
+@-webkit-keyframes Font {
+  0% {
+    color: red; }
+  25% {
+    color: #eece1a; }
+  50% {
+    color: teal; }
+  75% {
+    color: DarkBlue; }
+  100% {
+    color: turquoise; } }
 
 main {
   padding: 4rem;
