@@ -1,4 +1,4 @@
-# Responsive-Portfolio-Website
+# My Website and Portfolio
 ## Built with HTML, SCSS, and JavaScript
 
 [https://eternale88.github.io/Website/]
