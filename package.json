@@ -9,7 +9,7 @@
   },
   "author": "Ethan Robbins",
   "license": "MIT",
-  "homepage": "https://eternale88.github.io/Website",
+  "homepage": "https://eternale88.github.io/",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "node-sass": "^4.11.0"
