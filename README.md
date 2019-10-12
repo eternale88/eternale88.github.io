@@ -1,7 +1,7 @@
 # My Website and Portfolio
 ## Built with HTML, SCSS, and JavaScript
 
-[https://eternale88.github.io/Website/]
+[http://www.prowebdev.services]
 
 
 ## Synopsis
@@ -19,7 +19,7 @@ Clone or download to your local machine and npm install package.json and then ru
 
 or
 
-view at [https://eternale88.github.io/Website/]
+view at [http://www.prowebdev.services]
 
 
 ## API Reference
