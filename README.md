@@ -1,16 +1,16 @@
-# My Website and Portfolio
+# My Official Website and Portfolio
 ## Built with HTML, SCSS, and JavaScript
 
-[https://eternale88.github.io/Website/]
+[http://www.prowebdev.services]
 
 
 ## Synopsis
 
-My portfolio website built with HTML5, CSS3 with SCSS as a SASS preprocessor, and vanilla JavaScript
+My portfolio website built with HTML5, CSS3 with SCSS as a SASS preprocessor, and vanilla JavaScript.
 
 ## Motivation
 
-To better reflect my growing frontend skills, who I am as a developer and a person, and provide 
+To show who I am and connect with my clients - who I am as a developer and a person, and provide 
 a host for my future projects
 
 ## Installation
@@ -19,7 +19,7 @@ Clone or download to your local machine and npm install package.json and then ru
 
 or
 
-view at [https://eternale88.github.io/Website/]
+view at [http://www.prowebdev.services]
 
 
 ## API Reference
