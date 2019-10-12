@@ -179,6 +179,36 @@ main {
       }
     }
   }
+  textarea {
+    vertical-align: top;
+  }
+
+  input {
+    vertical-align: bottom;
+  }
+  input,
+  textarea {
+    padding: 12px 20px;
+  }
+  input#submit {
+    font-size: 17px;
+    padding: 1rem 2.5rem;
+    background-color: darken($primary-color, 10);
+    margin-top: 20px;
+
+    text-shadow: 0px 0.5px 0px #2f6627;
+    cursor: pointer;
+    @include easeOut;
+  }
+  input#submit:hover {
+    color: #fff;
+    background-color: darken($primary-color, 10);
+    padding: 0.5rem 1rem;
+  }
+
+  form {
+    text-align: center;
+  }
 }
 
 // Button Styles
