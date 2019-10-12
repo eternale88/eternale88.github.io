@@ -229,6 +229,27 @@ main {
       color: #000; }
       .boxes div:hover span {
         color: #000; }
+  .boxes textarea {
+    vertical-align: top; }
+  .boxes input {
+    vertical-align: bottom; }
+  .boxes input,
+  .boxes textarea {
+    padding: 12px 20px; }
+  .boxes input#submit {
+    font-size: 17px;
+    padding: 1rem 2.5rem;
+    background-color: #2b2b2b;
+    margin-top: 20px;
+    text-shadow: 0px 0.5px 0px #2f6627;
+    cursor: pointer;
+    transition: all 0.5s ease-out; }
+  .boxes input#submit:hover {
+    color: #fff;
+    background-color: #2b2b2b;
+    padding: 0.5rem 1rem; }
+  .boxes form {
+    text-align: center; }
 
 .btn, .btn-dark, .btn-light {
   display: block;
