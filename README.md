@@ -1,7 +1,7 @@
 # My Official Website and Portfolio
 ## Built with HTML, SCSS, and JavaScript
 
-[http://www.prowebdev.services]
+[https://www.prowebdev.services]
 
 
 ## Synopsis
@@ -19,7 +19,7 @@ Clone or download to your local machine and npm install package.json and then ru
 
 or
 
-view at [http://www.prowebdev.services]
+view at [https://www.prowebdev.services]
 
 
 ## API Reference
