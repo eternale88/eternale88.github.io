@@ -44,6 +44,10 @@ header {
   width: 100%;
 }
 
+#netlify, #netlify-form {
+  border: none;
+}
+
 .text-secondary {
   color: $secondary-color;
 }
