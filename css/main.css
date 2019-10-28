@@ -245,6 +245,7 @@ main {
     padding: 1rem 2.5rem;
     background-color: #2b2b2b;
     margin-top: 20px;
+    margin-bottom: 2rem;
     text-shadow: 0px 0.5px 0px #2f6627;
     cursor: pointer;
     transition: all 0.5s ease-out; }
