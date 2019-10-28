@@ -48,6 +48,10 @@ header {
   border: none;
 }
 
+.box {
+
+}
+
 .text-secondary {
   color: $secondary-color;
 }
@@ -167,7 +171,7 @@ main {
   align-items: center;
   margin-top: 1rem;
 
-  div {
+  .box {
     font-size: 2rem;
     border: 3px #fff solid;
     padding: 1.5rem 2.5rem;
