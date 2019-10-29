@@ -11,7 +11,7 @@ My portfolio website built with HTML5, CSS3 with SCSS as a SASS preprocessor, an
 ## Motivation
 
 To show who I am and connect with my clients - who I am as a developer and a person, and provide 
-a host for my future projects
+a host for my future projects - and to provide multiple ways of contacting me
 
 ## Installation
 
