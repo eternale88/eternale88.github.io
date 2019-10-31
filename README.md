@@ -6,7 +6,7 @@
 
 ## Synopsis
 
-My portfolio website built with HTML5, CSS3 with SCSS as a SASS preprocessor, and vanilla JavaScript.
+My portfolio website built with HTML5, CSS3 with SCSS as a SASS preprocessor, and Vanilla JavaScript.
 
 ## Motivation
 
