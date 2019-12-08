@@ -230,8 +230,8 @@ main {
       .boxes div:hover span {
         color: #000; }
   .boxes textarea {
-    vertical-align: top;
-    margin-top: 1.5rem; }
+    display: block;
+    margin: 1.5rem auto; }
   .boxes input {
     vertical-align: bottom; }
   .boxes input,

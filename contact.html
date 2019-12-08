@@ -67,7 +67,15 @@
             method="post"
             accept-charset="UTF-8"
           >
-            <input id="elformo_honeypot" name="elformo_honeypot" />
+            <input id="elformo_honeypot" name="elformo_honeypot" hidden />
+
+            <input
+              placeholder="name"
+              class="text-secondary"
+              id="name"
+              name="name"
+              type="name"
+            />
             <input
               placeholder="email"
               class="text-secondary"
@@ -77,6 +85,8 @@
             />
             <textarea
               placeholder="How can I help you?"
+              col="30"
+              rows="5"
               class="text-secondary"
               id="comment"
               name="comment"
