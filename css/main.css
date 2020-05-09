@@ -190,14 +190,15 @@ main {
     border-bottom: #eece1a 5px solid; }
 
 .bio-image {
-  width: 58%;
   height: 15rem;
   background: url("../img/portrait.jpg");
   border-radius: 50%;
   background-size: cover;
   border: solid 3px #eece1a;
   grid-area: bioimage;
-  margin: auto; }
+  margin: auto;
+  max-width: 230px;
+  max-height: 250px; }
 
 .projects {
   display: grid;
