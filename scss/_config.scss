@@ -31,6 +31,20 @@ $background-opacity: 0.5s;
   }
 }
 
+// ul styles when job description needs them, and link hover
+@mixin work-ul-style {
+  & ul {
+    list-style-type: initial;
+    padding: 0 15px;
+    list-style-position: inside;
+  }
+
+  & span.link-hover a:hover {
+    color: $secondary-color;
+    @include easeOut;
+  }
+}
+
 // Set Text Color
 @function set-text-color($color) {
   @if (lightness($color) > 40) {

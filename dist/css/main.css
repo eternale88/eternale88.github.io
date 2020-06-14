@@ -180,8 +180,22 @@ main {
     font-size: 1.5rem; }
   .about-info .job-1 {
     grid-area: job1; }
+    .about-info .job-1 ul {
+      list-style-type: initial;
+      padding: 0 15px;
+      list-style-position: inside; }
+    .about-info .job-1 span.link-hover a:hover {
+      color: #eece1a;
+      transition: all 0.5s ease-out; }
   .about-info .job-2 {
     grid-area: job2; }
+    .about-info .job-2 ul {
+      list-style-type: initial;
+      padding: 0 15px;
+      list-style-position: inside; }
+    .about-info .job-2 span.link-hover a:hover {
+      color: #eece1a;
+      transition: all 0.5s ease-out; }
   .about-info .job-3 {
     grid-area: job3; }
   .about-info .job {
@@ -190,14 +204,15 @@ main {
     border-bottom: #eece1a 5px solid; }
 
 .bio-image {
-  width: 250px;
-  height: 250px;
+  height: 15rem;
   background: url("../img/portrait.jpg");
   border-radius: 50%;
   background-size: cover;
   border: solid 3px #eece1a;
   grid-area: bioimage;
-  margin: auto; }
+  margin: auto;
+  max-width: 230px;
+  max-height: 250px; }
 
 .projects {
   display: grid;
@@ -230,8 +245,8 @@ main {
       .boxes div:hover span {
         color: #000; }
   .boxes textarea {
-    vertical-align: top;
-    margin-top: 1.5rem; }
+    display: block;
+    margin: 1.5rem auto; }
   .boxes input {
     vertical-align: bottom; }
   .boxes input,
@@ -278,9 +293,7 @@ main {
 
 @media screen and (min-width: 1171px) {
   .projects {
-    grid-template-columns: repeat(4, 1fr); }
-  
-  }
+    grid-template-columns: repeat(4, 1fr); } }
 
 @media screen and (min-width: 769px) and (max-width: 1170px) {
   .projects {

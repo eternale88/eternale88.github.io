@@ -180,8 +180,22 @@ main {
     font-size: 1.5rem; }
   .about-info .job-1 {
     grid-area: job1; }
+    .about-info .job-1 ul {
+      list-style-type: initial;
+      padding: 0 15px;
+      list-style-position: inside; }
+    .about-info .job-1 span.link-hover a:hover {
+      color: #eece1a;
+      transition: all 0.5s ease-out; }
   .about-info .job-2 {
     grid-area: job2; }
+    .about-info .job-2 ul {
+      list-style-type: initial;
+      padding: 0 15px;
+      list-style-position: inside; }
+    .about-info .job-2 span.link-hover a:hover {
+      color: #eece1a;
+      transition: all 0.5s ease-out; }
   .about-info .job-3 {
     grid-area: job3; }
   .about-info .job {

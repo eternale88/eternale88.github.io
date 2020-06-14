@@ -108,10 +108,12 @@ main {
 
   .job-1 {
     grid-area: job1;
+    @include work-ul-style;
   }
 
   .job-2 {
     grid-area: job2;
+    @include work-ul-style;
   }
 
   .job-3 {
@@ -139,7 +141,7 @@ main {
     max-height: 250px;
 }
 
-// Work/Projects
+// Work/Projects //
 .projects {
   display: grid;
   grid-gap: 0.7rem;
