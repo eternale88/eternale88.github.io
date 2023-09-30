@@ -1,4 +1,4 @@
-# My Official Website and Portfolio
+# My Official Website and Portfolio site
 
 ## Built with HTML, SCSS, and JavaScript
 
