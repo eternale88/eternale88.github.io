@@ -12,6 +12,6 @@
   "homepage": "https://eternale88.github.io/",
   "dependencies": {
     "gh-pages": "^2.0.1",
-    "node-sass": "^4.11.0"
+    "node-sass": "^9.0.0"
   }
 }
